@@ -1,0 +1,10 @@
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\bin\Debug\PersonelApp.exe.config
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\bin\Debug\PersonelApp.exe
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\bin\Debug\PersonelApp.pdb
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\obj\Debug\PersonelApp.csprojAssemblyReference.cache
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\obj\Debug\PersonelApp.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\obj\Debug\PersonelApp.exe
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\obj\Debug\PersonelApp.pdb
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\bin\Debug\PersonelLib.dll
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\bin\Debug\PersonelLib.pdb
+C:\Users\melih\source\repos\PersonelLib\PersonelApp\obj\Debug\PersonelApp.csproj.CopyComplete

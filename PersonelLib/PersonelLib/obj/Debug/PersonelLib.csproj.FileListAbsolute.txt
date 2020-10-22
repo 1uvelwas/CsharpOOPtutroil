@@ -1,0 +1,6 @@
+C:\Users\melih\source\repos\PersonelLib\PersonelLib\bin\Debug\PersonelLib.dll
+C:\Users\melih\source\repos\PersonelLib\PersonelLib\bin\Debug\PersonelLib.pdb
+C:\Users\melih\source\repos\PersonelLib\PersonelLib\obj\Debug\PersonelLib.csprojAssemblyReference.cache
+C:\Users\melih\source\repos\PersonelLib\PersonelLib\obj\Debug\PersonelLib.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\PersonelLib\PersonelLib\obj\Debug\PersonelLib.dll
+C:\Users\melih\source\repos\PersonelLib\PersonelLib\obj\Debug\PersonelLib.pdb
